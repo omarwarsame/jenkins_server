@@ -34,6 +34,31 @@ sudo systemctl status docker
 ``` ruby
 sudo systemctl start docker
 ```
+- Install docker compose:
+``` ruby
+sudo apt  install docker-compose
+```
+- Check that is got installed:
+``` ruby
+docker compose version
+```
+- If you get persmission issues, set the permissions with the next line, but check version again to see it got installed properly:
+``` ruby
+sudo chmod +x /usr/bin/docker-compose
+```
+- Pull Jenkins container:
+``` ruby
+docker pull jenkins/jenkins
+```
+- Where is docker saving images in linux? To know, type:
+``` ruby
+docker info | grep -i root
+```
+- Find out space taken by docker images, type next line plus the path returned from last commands, example sudo du -sh /var/.......
+``` ruby
+sudo du -sh
+```
+
 
 
 
