@@ -97,7 +97,7 @@ docker logs -f < plus the container ID>
 ```
 
 Job well done!
-You are in Jenkins, where will be executing some jobs in the next steps of these series.
+You are in Jenkins, where we will be executing some automation jobs in the next steps of these Jenkins series.
 
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/owarsame?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSOodhTsXT4CPjEe8q6c1Aw%3D%3D)
 [![](https://img.shields.io/badge/github-darkgrey?style=for-the-badge)](https://github.com/OmarWarsame)
