@@ -29,7 +29,7 @@ sudo usermod -aG docker ${USER}
 ``` ruby 
 sudo systemctl status docker
 ```
-- If does not show as active, move on to the next step, but chech status again.
+- If it does not show as active, move on to the next step, but chech status again.
 - Start docker services and enable it with systemctl:
 ``` ruby
 sudo systemctl start docker
