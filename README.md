@@ -85,7 +85,9 @@ sudo chown 1000:1000 jenkins_home/
 ``` ruby
 docker-compose up -d
 ```
-- To visit the jenkin container through browser, type your local server's IP followed by. :8080 
+- To visit the jenkin container through browser, type your local server's IP followed by. :8080.
+
+
 [![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
 [![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
 [![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
