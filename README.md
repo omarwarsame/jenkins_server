@@ -91,7 +91,7 @@ docker-compose up -d
 ```
 - To visit the jenkin container through browser, type your local server's IP followed by. :8080.
 
-- Once you are on Jenkins page, you'll need a password which could be found in the logs (somewhere the first page):
+- Once you are on Jenkins page, you'll need a password which could be found in the logs (somewhere in the first page):
 ``` ruby
 docker logs -f < plus the container ID>
 ```
