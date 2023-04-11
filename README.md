@@ -86,9 +86,7 @@ sudo chown 1000:1000 jenkins_home/
 docker-compose up -d
 ```
 - To visit the jenkin container through browser, type your local server's IP followed by. :8080 
-```css
-   // #FFFF00
-```
+$\colorbox{tijaabo}{text}$
 
 
 
