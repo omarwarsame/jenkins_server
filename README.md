@@ -1,6 +1,10 @@
 ![image](https://user-images.githubusercontent.com/99705293/231302990-55732cd7-eea6-4e0c-a5ae-2859452d3721.png)
 
-
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/owarsame?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSOodhTsXT4CPjEe8q6c1Aw%3D%3D)
+[![](https://img.shields.io/badge/github-darkgrey?style=for-the-badge)](https://github.com/OmarWarsame)
+<!---[![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)--->
+<!---[![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)--->
+<!---[![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)--->
 # Installing Jenkins as a container.
 ###### Based on Ricardo Andre's 'Jenkins, from zero to hero' course.
 
