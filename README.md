@@ -12,11 +12,14 @@ There is an assumption that one knows how to use VMs in Virtualbox or VMware app
 ``` ruby
 sudo apt-get update
 ```
-- Install Docker Engine, containerd, and Docker Compose.
-### To install the latest version, run:
+- Tp Install the latest Docker Engine, containerd, and Docker Compose, run:
 
 ``` ruby
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+```
+- Verify that the Docker Engine installation is successful by running the hello-world image:
+``` ruby
+sudo docker run hello-world
 ```
 
 
