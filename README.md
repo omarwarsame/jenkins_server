@@ -9,7 +9,7 @@ There is an assumption that one knows how to use VMs in Virtualbox or VMware app
 
 ### Install Docker Engine
 - Update the apt package index:
-``` rubu
+``` ruby
 sudo apt-get update
 ```
 - Install Docker Engine, containerd, and Docker Compose.
