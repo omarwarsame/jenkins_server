@@ -54,7 +54,7 @@ docker pull jenkins/jenkins
 ``` ruby
 docker info | grep -i root
 ```
-- Find out space taken by docker images, type next line plus the path returned from last commands, example sudo du -sh /var/.......
+- Find out space taken by docker images, type next line plus the path returned from last commands, example sudo du -sh /var/lib/docker/?
 ``` ruby
 sudo du -sh
 ```
