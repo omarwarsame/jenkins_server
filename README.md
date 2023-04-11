@@ -12,7 +12,7 @@ There is an assumption that one knows how to use VMs in Virtualbox or VMware app
 ``` ruby
 sudo apt-get update
 ```
-- Tp Install the latest Docker Engine, containerd, and Docker Compose, run:
+- To Install the latest Docker Engine, containerd, and Docker Compose, run:
 
 ``` ruby
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
