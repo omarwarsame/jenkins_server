@@ -58,6 +58,7 @@ docker info | grep -i root
 ``` ruby
 sudo du -sh
 ```
+- Following this daigram, create 3 directories - jenkins/jenkins-data/jenkins_home
 ![image](https://user-images.githubusercontent.com/99705293/231308698-2530d913-963e-4c27-862a-ce0b1b78dc66.png)
 
 
