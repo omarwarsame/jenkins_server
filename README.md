@@ -77,7 +77,18 @@ services:
 networks:
   net:
 ```
-
+- Give user the ownership:
+``` ruby
+sudo chown 1000:1000 jenkins_home/
+```
+- Run your docker-compose file:
+``` ruby
+docker-compose up -d
+```
+- To visit the jenkin container through browser, type your local server's IP followed by. :8080 
+```css
+   // #FFFF00
+```
 
 
 
