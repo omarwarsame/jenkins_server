@@ -21,6 +21,12 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 ``` ruby
 sudo docker run hello-world
 ```
+- Give the user the permissions to run docker commands:
+``` ruby
+sudo usermod -aG docker ${USER}
+sudo chmod 777 /var/run/docker.sock
+```
+
 
 
 
