@@ -25,6 +25,14 @@ sudo docker run hello-world
 ``` ruby
 sudo usermod -aG docker ${USER}
 ```
+- Start docker services and enable it with systemctl:
+``` ruby
+sudo systemctl start docker
+```
+- Check docket daemom status, and it should show 'active':
+``` ruby 
+sudo systemctl status docker
+```
 
 
 
