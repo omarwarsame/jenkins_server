@@ -84,7 +84,9 @@ There is an assumption that one knows how to use VMs in Virtualbox or VMware app
             - net
       networks:
         net:
- + Give user the ownership:
+ + For explanation of what 'docker-compose.yml does, you can visit this page:
+    - 
+ + Give the user the ownership of the jenkins_home folder:
    - ``` ruby
       sudo chown 1000:1000 jenkins_home/
      ```
