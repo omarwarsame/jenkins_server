@@ -100,7 +100,7 @@ There is an assumption that one knows how to use VMs in Virtualbox or VMware app
      ```
 
 #### Job well done!
-This is Jenkins, where we will be executing some automation jobs in the next steps of these Jenkins series.
+This is Jenkins, where we will be executing some automation jobs in these Jenkins series.
 
 
 **How to Contribute**
