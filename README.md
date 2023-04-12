@@ -98,7 +98,18 @@ docker logs -f < plus the container ID>
 ```
 
 Job well done!
-You are in Jenkins, where we will be executing some automation jobs in the next steps of these Jenkins series.
+This is Jenkins, where we will be executing some automation jobs in the next steps of these Jenkins series.
+
+
+**How to Contribute**
+---
+
+1. Clone repo and create a new branch: `$ git checkout https://github.com/alichtman/stronghold -b name_for_new_branch`.
+2. Make changes and test
+3. Submit Pull Request with comprehensive description of changes
+
+**Acknowledgements**
+---
 
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/owarsame?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSOodhTsXT4CPjEe8q6c1Aw%3D%3D)
 [![](https://img.shields.io/badge/github-darkgrey?style=for-the-badge)](https://github.com/OmarWarsame)
