@@ -3,7 +3,7 @@ A docker-compose.yml file is used in Docker Compose, a tool that allows you to d
 The docker-compose.yml file specifies the services, networks, and volumes that are part of your Docker application, along with their configurations. Here's a brief overview of what each section in a typical docker-compose.yml file does:
 
 ### services: 
-    - Defines the containers or services that are part of your application, along with their configurations such as the Docker image to be used, environment variables, exposed ports, and volumes.
+    ``` Defines the containers or services that are part of your application, along with their configurations such as the Docker image to be used, environment variables, exposed ports, and volumes.```
 
 networks: 
 Defines the networks that are used by the services in your application. You can specify the type of network, IP address ranges, and other network configurations.
