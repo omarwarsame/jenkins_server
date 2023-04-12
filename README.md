@@ -28,27 +28,33 @@ There is an assumption that one knows how to use VMs in Virtualbox or VMware app
 + Give the user the permissions to run docker commands:
    - ``` ruby
     sudo usermod -aG docker ${USER}
+    
     ```
 + Check docket daemom status, and it should show 'active':
    - ``` ruby 
     sudo systemctl status docker
+    
     ```
 #### If it does not show up as active, move on to the next step, but chech status again.
 + Start docker services and enable it with systemctl:
     - ``` ruby
     sudo systemctl start docker
+    
     ```
 + Install docker compose:
     - ``` ruby
     sudo apt  install docker-compose
+    
     ```
 + Check that is got installed:
     - ``` ruby
     docker compose version
+    
     ```
 + If you get persmission issues, set the permissions with the next line, but check version again to see it got installed properly:
     - ``` ruby
     sudo chmod +x /usr/bin/docker-compose
+    
     ```
 + Pull Jenkins container:
     - ``` ruby
