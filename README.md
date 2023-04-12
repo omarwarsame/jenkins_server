@@ -26,9 +26,8 @@ There is an assumption that one knows how to use VMs in Virtualbox or VMware app
     sudo docker run hello-world
     ```
 + Give the user the permissions to run docker commands:
-   - ``` ruby
-    sudo usermod -aG docker ${USER}
-    
+  - ``` ruby
+    sudo usermod -aG docker ${USER}  
     ```
 + Check docket daemom status, and it should show 'active':
    - ``` ruby 
