@@ -7,7 +7,7 @@
 <!---[![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)--->
 <!---[![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)--->
 # Installing Jenkins as a container.
-###### Based on Ricardo Andre's 'Jenkins, from zero to hero' course.
+
 
 There is an assumption that one knows how to use VMs in Virtualbox or VMware applications and that an Ubuntu server with bridge network is already installed.
 ### Install Docker Engine, containerd, and Docker Compose.
@@ -109,6 +109,7 @@ This is Jenkins, where we will be executing some automation jobs in the next ste
 3. Submit Pull Request with comprehensive description of changes
 
 **Acknowledgements**
+###### Based on Ricardo Andre's 'Jenkins, from zero to hero' course.
 ---
 
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/owarsame?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSOodhTsXT4CPjEe8q6c1Aw%3D%3D)
