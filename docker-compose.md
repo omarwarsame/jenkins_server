@@ -4,7 +4,7 @@ The docker-compose.yml file specifies the services, networks, and volumes that a
 
 ### services: 
 ``` Defines the containers or services that are part of your application, along with their configurations such as the ```
-Docker image to be used, environment variables, exposed ports, and volumes.```
+``` Docker image to be used, environment variables, exposed ports, and volumes.```
 
 networks: 
 Defines the networks that are used by the services in your application. You can specify the type of network, IP address ranges, and other network configurations.
