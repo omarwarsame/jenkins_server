@@ -104,7 +104,7 @@ This is Jenkins, where we will be executing some automation jobs in the next ste
 **How to Contribute**
 ---
 
-1. Clone repo and create a new branch: `https://github.com/OmarWarsame/jenkins_server.git`
+1. Clone repo and create a new branch: `https://github.com/OmarWarsame/jenkins_server.git -b <new-branch-name>`
 2. Make changes and test
 3. Submit Pull Request with comprehensive description of changes
 
