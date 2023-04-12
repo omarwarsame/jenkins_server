@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/99705293/231359215-1105c980-2bad-4ba6-bdf1-d2eb3a2cd532.png)
+![image](https://user-images.githubusercontent.com/99705293/231359477-cfdfcd3b-b7bc-4bc5-8341-463e1923fcda.png)
 
 
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/owarsame?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSOodhTsXT4CPjEe8q6c1Aw%3D%3D)
